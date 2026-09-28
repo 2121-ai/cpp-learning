@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zwj\\source\\repos\\code 1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC57A7B-E251-4607-ACE9-B3525A9F45D4}|code 1.0\\code 1.0.vcxproj|C:\\Users\\zwj\\source\\repos\\code 1.0\\code 1.0\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5EC57A7B-E251-4607-ACE9-B3525A9F45D4}|code 1.0\\code 1.0.vcxproj|solutionrelative:code 1.0\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC57A7B-E251-4607-ACE9-B3525A9F45D4}|code 1.0\\code 1.0.vcxproj|C:\\Users\\zwj\\source\\repos\\code 1.0\\code 1.0\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5EC57A7B-E251-4607-ACE9-B3525A9F45D4}|code 1.0\\code 1.0.vcxproj|solutionrelative:code 1.0\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\zwj\\source\\repos\\code 1.0\\code 1.0\\.gitignore",
+              "RelativeDocumentMoniker": "code 1.0\\.gitignore",
+              "ToolTip": "C:\\Users\\zwj\\source\\repos\\code 1.0\\code 1.0\\.gitignore",
+              "RelativeToolTip": "code 1.0\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T12:15:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\zwj\\source\\repos\\code 1.0\\code 1.0\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "code 1.0\\\u6E90.cpp",
+              "ToolTip": "C:\\Users\\zwj\\source\\repos\\code 1.0\\code 1.0\\\u6E90.cpp",
+              "RelativeToolTip": "code 1.0\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-27T14:28:00.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
